@@ -1,0 +1,2 @@
+class PropositionThree < ApplicationRecord
+end

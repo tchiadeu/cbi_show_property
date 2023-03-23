@@ -1,0 +1,2 @@
+class PropositionTwo < ApplicationRecord
+end
